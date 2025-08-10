@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>📈 داشبورد ارزهای دیجیتال</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🚀 ارزهای با رشد بالا</h1>
+  <table id="crypto-table">
+    <thead>
+      <tr>
+        <th>نام</th>
+        <th>نماد</th>
+        <th>قیمت (USD)</th>
+        <th>تغییر ۲۴ساعته (%)</th>
+        <th>حجم معاملات</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
